@@ -1,29 +1,15 @@
 { "urls": [{ "url": "https://gitee.com/xx16875/box3/raw/master/饭太硬/api.json", "name": "饭太硬" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/小米/api.json", "name": "小米" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/肥猫/api.json", "name": "肥猫" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/王二小/api.json", "name": "王二小" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/摸鱼儿/api.json", "name": "摸鱼儿" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/潇洒/api.json", "name": "潇洒" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/天天开心/api.json", "name": "天天开心" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/香雅情/api.json", "name": "香雅情" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/南风/api.json", "name": "南风" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/骚零/api.json", "name": "骚零" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/OK/api.json", "name": "OK" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/戏曲音乐/api.json", "name": "戏曲音乐" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/短剧频道/api.json", "name": "短剧频道" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/少儿频道/api.json", "name": "少儿频道" },
-
 { "url": "https://gitee.com/xx16875/box3/raw/master/动漫频道/api.json", "name": "动漫频道" }]}
